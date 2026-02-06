@@ -13,7 +13,8 @@
 * ⚡ **[a16z crypto](https://a16zcrypto.com/)** – Head of GTM for the leading web3 venture fund.
 * 🏮 **[Gold House](https://goldhouse.org/)** – Supporting the API community and creative ecosystem.
 * 🌍 **Global GWS** – Driving impact through global leadership initiatives.
-* 💰 **ADDDYYYY** – Solana ecosystem support.
+* 💰 **A5C4CZGxZAEMwGtZNyTSzGcmD6cGAzEiDdcQJBE6bUDx** – Solana ecosystem support.
+* 💰 **0xcdf05c3bebc64cc49ac6b678b0ba9b68bf92bc8c** – EVM ecosystem support.
 
 ## Current Focus
 

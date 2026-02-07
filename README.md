@@ -9,7 +9,7 @@
 
 || SPELLED_OBJECTS ||
 + [$SNOWBALL] -- (https://x.com/bschizojew) // ONCHAIN_PSYOP
-+ [BOT_NET] -- HIGH_FREQ_LIQUIDITY_SIPHON
++ [$Anchor] -- [HIGH_FREQ_LIQUIDITY_SIPHON](https://github.com/bschizojew/AnchorEarn)
 + [BIZ_INTEL] -- SCRAPING_THE_VOID_FOR_ALPHA
 + [SOL_VAULT] -- 4ehBFbPecqiQZvb3acbxmoTxeeWbm6fi3h5LFT1S88rw
 
